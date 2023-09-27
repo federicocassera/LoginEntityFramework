@@ -12,6 +12,7 @@ namespace LoginEntityFramework
     {
         static void Main(string[] args)
         {
+
             string options = "";
             var ctx = new ordersEntities1();
 
